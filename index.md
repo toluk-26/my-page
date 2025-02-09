@@ -1,6 +1,3 @@
-# Tolu K.  
----
-
 ## Education  
 **High School Diploma**  
 *Heritage Academy*  
