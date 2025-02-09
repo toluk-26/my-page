@@ -1,123 +1,58 @@
+# Tolu K.  
 ---
-layout: default
+
+## Education  
+**High School Diploma**  
+*Heritage Academy*  
+*May 2022*  
+
+**Virginia Tech**  
+*Junior, Computer Engineering*  
+*Expected Graduation: 2026*  
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Skills & Abilities  
+- **Typing Speed:** 70 AWPM  
+- **Operating Systems:** Windows, Linux  
+- **Programming Languages:** C/C++, Verilog, Matlab  
+- **Tools & Platforms:** GitHub, Arduino  
+- **Other:** Detail-oriented  
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## Experience  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### **Student Supervisor**  
+*Heritage Academy Video Production Department*  
+*September 2019 - May 2022*  
+- Spearheaded training programs for students in initiating and managing livestream events, elevating department capabilities and fostering student engagement.  
+- Served as the primary photographer for the ASI Convention in Gatlinburg, Tennessee, capturing high-quality images and ensuring seamless operation of the convention's livestream.  
+- Successfully produced a large-scale livestream event, "There is More," managing technical requirements and coordinating production details.  
 
-# Header 1
+### **Assistant**  
+*KDE Electric*  
+*December 2020 - December 2021*  
+- Assisted lead electricians in installing and maintaining generators and residential electrical systems, ensuring high-quality work and client satisfaction.  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### **Food Service Worker**  
+*Virginia Tech Dining Services*  
+*October 2022 - Present*  
+- Greeted customers with a warm welcome and promptly served food, ensuring top-notch customer satisfaction and repeat business.  
+- Skillfully prepared a wide range of food items adhering to prescribed recipes and presentation standards.  
+- Participated in team-based tasks, such as restocking food supplies and setting up for the next meal shift.  
+---
 
-## Header 2
+## Projects  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### **Wireless Node Sensor Development**  
+- Collaborated in a small team to develop a wireless node sensor, including the design of a DC/DC boost converter for charging a 9-volt battery.  
+- Programmed a barebones Arduino to minimize power consumption, optimizing overall performance, to communicate via Bluetooth.  
 
-### Header 3
+### **Custom 16-bit Simulated Computer**  
+- Designed and implemented basic math and comparison software for a custom 16-bit simulated computer.  
+- Developed custom opcodes and programmed a custom Arithmetic Logic Unit (ALU) to handle operations.  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*Last updated: October 2024*
