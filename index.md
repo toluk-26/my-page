@@ -37,7 +37,8 @@
 *October 2022 - Present*  
 - Greeted customers with a warm welcome and promptly served food, ensuring top-notch customer satisfaction and repeat business.  
 - Skillfully prepared a wide range of food items adhering to prescribed recipes and presentation standards.  
-- Participated in team-based tasks, such as restocking food supplies and setting up for the next meal shift.  
+- Participated in team-based tasks, such as restocking food supplies and setting up for the next meal shift.
+  
 ---
 
 ## Projects  
